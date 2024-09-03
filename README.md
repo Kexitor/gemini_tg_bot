@@ -29,7 +29,7 @@ python tg_chat_bot.py
 
 Bot records logs in directory `./logs/` and user messages in `./messages/`.
 
-If any problem with libs, then do next command:
+If any problem with Gemini API libs, do next command:
 
 ```commandline
 pip install -q -U google-generativeai 
