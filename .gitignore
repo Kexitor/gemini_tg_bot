@@ -1,5 +1,6 @@
 .venv/
 logs/
 messages/
+.idea/
 
 *.xml
