@@ -4,3 +4,4 @@ messages/
 .idea/
 
 *.xml
+*.iml
