@@ -1,4 +1,4 @@
-# Human pose estimation and classification using Mediapipe
+# Simple Telegram bot using Gemini API
 
 Simple Telegram bot with Gemini API. There is dialog refresher enabled.
 
