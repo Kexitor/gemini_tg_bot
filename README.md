@@ -4,7 +4,7 @@ Simple Telegram bot with Gemini API. There is dialog refresher enabled.
 
 ## Used lib versions:
 
-Python updated to version 3.10.11
+Python version 3.10.11
 
 Required libs can be installed:
 
